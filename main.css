@@ -27,3 +27,16 @@ table th{
      border:1px solid black
 
  }
+
+ lable{
+     float:left;
+     width: 200px;
+ }
+
+ form{
+     width: 600px;
+     height: 200px;
+     background-color:white;
+     border-block-color: green;
+
+ }
