@@ -1,0 +1,29 @@
+body{
+    width: 80%;
+    margin: auto;
+}
+
+#pname{
+    text-align: center;
+
+}
+hr{
+    height: 4px;
+    background-color: green;
+}
+
+h3{
+    width: 100%;
+    background-color:grey;
+}
+
+
+
+table th{
+    background-color: green;
+    border:2px solid grey
+    }
+ table th,td{
+     border:1px solid black
+
+ }
